@@ -1,3 +1,3 @@
-# Calculator design HTMLCSS and JavaScript
+# Calculator design using HTML CSS and JavaScript
 
 Muhammad Arafat
